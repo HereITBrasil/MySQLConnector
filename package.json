@@ -20,22 +20,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s2way/MySQLConnector"
+    "url": "https://github.com/HereITBrasil/MySQLConnector"
   },
   "author": "Newborns - S2Way",
   "bugs": {
-    "url": "https://github.com/s2way/MySQLConnector/issues"
+    "url": "https://github.com/HereITBrasil/MySQLConnector/issues"
   },
   "dependencies": {
-    "exceptions": "https://github.com/rodolforios/Exception.git",
+    "exceptions": "https://github.com/HereITBrasil/Exception.git",
     "lodash": "^4.13.1",
     "moment": "^2.10.3",
     "mysql2": "1.3.2",
     "node-uuid": "^1.4.3",
-    "rules": "https://github.com/rodolforios/Rules.git"
+    "rules": "https://github.com/HereITBrasil/Rules.git"
   },
   "devDependencies": {
-    "blanket": "https://github.com/rodolforios/blanket.git",
+    "blanket": "https://github.com/HereITBrasil/blanket.git",
     "coffee-script": "latest",
     "coffeelint": "^1.9.4",
     "expect.js": "^0.3.1",
